@@ -530,12 +530,14 @@ input[type="checkbox"]:checked ~ .menu {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    display: none; 
+    display: none;
     background-color: rgba(231, 73, 15, 0.8);
 }
 
 #backToTop:hover {
-    background-color: #f7903c; 
+    background-color: #f7903c;
 }
+
+
 
 
